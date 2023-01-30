@@ -4,10 +4,11 @@ A Node.js app that will create a .md file with information using responses from 
 ## Details  
 Assignment: #9
 Due: 1/25/2023  
-Repo: 
-Deployed:  
- 
-  <img src="" alt="readme screenshot">
+Repo: https://github.com/begin0071/readmeGenerator
+Deployed: https://begin0071.github.io/readmeGenerator/
+Demonstration: https://www.dropbox.com/s/qv88fm69x9ysp13/Video%20Jan%2030%202023%2C%2012%2000%2037%20AM.mov?dl=0
+
+  <img src="./screenshot.png">
 
 ## Acceptance Criteria
 GIVEN a command-line application that accepts user input
